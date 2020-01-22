@@ -1,0 +1,11 @@
+{
+  "name": "recursive-copy-flat",
+  "version": "1.0.0",
+  "description": "Recursively copy files from a folder and its sub-folders into a new flat folder. Tested in Windows OS",
+  "main": "index.js",
+  "author": "anaeze",
+  "license": "MIT",
+  "dependencies": {
+    "flatten-dir": "^1.0.1"
+  }
+}
